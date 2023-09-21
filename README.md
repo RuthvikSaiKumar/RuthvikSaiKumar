@@ -12,16 +12,9 @@ I'm a beginner to programming. I have just a year of experience by 2021. I just 
 - CSS
 - Python
 - C++
-- Kotlin
-- Lua
-- Brainf [I don't think it's called a language]
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ruthvik-tp-dev.w3spaces.com)
 
 [![Profile badge](https://www.codewars.com/users/RSKL/badges/large)](https://www.codewars.com/users/RSKL)
 
 [Stackoverflow](https://stackoverflow.com/users/17002772/ruthvik)
-
-## Contact me
-
-You can contact me at ruthvikas2431@gmail.com
